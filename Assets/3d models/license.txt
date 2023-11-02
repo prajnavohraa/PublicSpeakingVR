@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lecture Hall
+* source:	https://sketchfab.com/3d-models/lecture-hall-30c8af7c268f4ddeb26d841b7c21bcfb
+* author:	BgirlKittyEmo (https://sketchfab.com/BgirlKittyEmo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lecture Hall" (https://sketchfab.com/3d-models/lecture-hall-30c8af7c268f4ddeb26d841b7c21bcfb) by BgirlKittyEmo (https://sketchfab.com/BgirlKittyEmo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

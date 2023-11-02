@@ -1,0 +1,11 @@
+Model Information:
+* title:	Podium
+* source:	https://sketchfab.com/3d-models/podium-54e7a035a93d43798c78b9408eeea079
+* author:	m3org (https://sketchfab.com/m3org)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Podium" (https://sketchfab.com/3d-models/podium-54e7a035a93d43798c78b9408eeea079) by m3org (https://sketchfab.com/m3org) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

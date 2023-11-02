@@ -1,0 +1,11 @@
+Model Information:
+* title:	University Lecture Hall | 대학교 강의실 | 大学講義室
+* source:	https://sketchfab.com/3d-models/university-lecture-hall-452cc01ebd1a47de9925bd43f44d7da4
+* author:	융해열흡수 (https://sketchfab.com/heat_of_fusion)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "University Lecture Hall | 대학교 강의실 | 大学講義室" (https://sketchfab.com/3d-models/university-lecture-hall-452cc01ebd1a47de9925bd43f44d7da4) by 융해열흡수 (https://sketchfab.com/heat_of_fusion) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
