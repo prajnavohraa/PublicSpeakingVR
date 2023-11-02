@@ -239,7 +239,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3815137737944848707, guid: 99abce57da650e04eb225de68719f048, type: 3}
       propertyPath: m_Name
-      value: Imported
+      value: classroom
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
