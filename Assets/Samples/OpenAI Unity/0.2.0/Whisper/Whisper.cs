@@ -131,7 +131,6 @@ namespace Samples.Whisper
                 OnResponse.Invoke(chatResponse.Content);
             }
         }
-
     }
 }
 
