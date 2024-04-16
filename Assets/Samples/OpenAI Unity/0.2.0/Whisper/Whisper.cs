@@ -25,7 +25,7 @@ namespace Samples.Whisper
 
         
         private readonly string fileName = "output.wav";
-        private readonly int duration = 5;
+        private readonly int duration = 10;
         
         private AudioClip clip;
         private bool isRecording;
