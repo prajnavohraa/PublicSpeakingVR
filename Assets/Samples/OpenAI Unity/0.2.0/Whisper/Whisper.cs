@@ -22,6 +22,7 @@ namespace Samples.Whisper
         [SerializeField] private Image progressBar;
         [SerializeField] private Text message;
         [SerializeField] private Dropdown dropdown;
+        [SerializeField] private TextToSpeech textToSpeech;
 
         
         private readonly string fileName = "output.wav";
@@ -129,6 +130,7 @@ namespace Samples.Whisper
 
                 Debug.Log(chatResponse.Content);
                 OnResponse.Invoke(chatResponse.Content);
+                await textToSpeech.Speak(chatResponse.Content);
             }
         }
     }
