@@ -2431,14 +2431,14 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 321266980}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.009137006, y: -0.97986436, z: 0.19843936, w: -0.020104941}
-  m_LocalPosition: {x: 54.4, y: 16.869839, z: 234.1}
+  m_LocalRotation: {x: 0.0063838256, y: -0.9975456, z: 0.06644651, w: -0.02114102}
+  m_LocalPosition: {x: 54.4, y: 16.791584, z: 226.0135}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 151939594}
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 22.862, y: -182.676, z: -1.61}
+  m_LocalEulerAnglesHint: {x: 7.602, y: -182.488, z: -0.899}
 --- !u!1 &331020153
 GameObject:
   m_ObjectHideFlags: 0
@@ -6286,8 +6286,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 10
-  m_fontSizeBase: 10
+  m_fontSize: 8
+  m_fontSizeBase: 8
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -13206,6 +13206,7 @@ MonoBehaviour:
   progressBar: {fileID: 1082778261}
   message: {fileID: 600556208}
   dropdown: {fileID: 2007428325}
+  textToSpeech: {fileID: 0}
 --- !u!4 &1597466290
 Transform:
   m_ObjectHideFlags: 0
